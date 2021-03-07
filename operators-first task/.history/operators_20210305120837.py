@@ -1,0 +1,12 @@
+print("Enter your name")
+name = input()
+print(f"Hey !! {name}, welcome to the party...")
+print('\n')
+print("<-------------Example 2-------------------->")
+print("Enter first number")
+a = int(input())
+print("Enter second number")
+b = int(input())
+print(f"sum of {a} and {b} is {a+b}")
+print('\n')
+# String formatting using format() method
